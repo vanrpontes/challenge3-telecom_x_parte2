@@ -30,7 +30,18 @@ Desenvolver um modelo capaz de prever quais clientes têm maior probabilidade de
 - **Interpretação de Matriz de Confusão:** Análise de Falsos Positivos e Falsos Negativos sob a ótica de custos.
 - **Visão Consultiva:** Tradução de métricas de IA para decisões de negócio (Previsão de Perdas).
 
-# 🚀 Como executar o projeto
-1. Faça o clone deste repositório:
-   ```bash
-   git clone [https://github.com/vanrpontes/challenge3-telecom_x_parte2.git](https://github.com/vanrpontes/challenge3-telecom_x_parte2.git)
+# Como executar o projeto
+1. Faça o download ou clone deste repositório:
+Bash
+git clone https://github.com/vanrpontes/challenge3-telecom_x_parte2.git
+Acesse o notebook principal na raiz do projeto.
+2. Abra o arquivo no Google Colab.
+3 Execute as células sequencialmente para observar o processo de limpeza e as visualizações geradas.
+
+## Conclusões finais
+O relatório estratégico com os gráficos e recomendações para a diretoria da Telecom X está disponível no link abaixo:
+
+[Acessar Relatório Final (PDF)](https://github.com/vanrpontes/challenge3-telecom_x_parte2/blob/main/relatorio/relatorio/Challenge-3_Telecom_X - Relatório Modelo de Previsão de Perdas Financeiras.pdf)
+
+Dados fornecidos pela Alura.
+
