@@ -41,7 +41,7 @@ Acesse o notebook principal na raiz do projeto.
 ## Conclusões finais
 O relatório estratégico com os gráficos e recomendações para a diretoria da Telecom X está disponível no link abaixo:
 
-[Acessar Relatório Final (PDF)](relatorio/Challenge-3_Telecom_X - Relatório Modelo de Previsão de Perdas Financeiras.pdf)
+[Acessar Relatório Final (PDF)](https://github.com/vanrpontes/challenge2-telecom_x/blob/main/relatorio/Challenge-3_Telecom_X - Relatório Modelo de Previsão de Perdas Financeiras.pdf)
 
 Dados fornecidos pela Alura.
 
